@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: https://github.com/aldebaransearch/udacity_drl/blob/main/yellow_bananas_step_800.gif "Trained Agent"
+[image1]: https://github.com/aldebaransearch/udacity_drl_project_2/blob/main/reacher.gif "Trained Agent"
 
 # Project 1: Continuous Control
 
