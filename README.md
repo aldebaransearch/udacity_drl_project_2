@@ -44,7 +44,7 @@ Simply follow the instructions in the first half of the Continuous_Control_1.ipy
 ### Check Solutions
 To assess results from training, follow the instructions in the last half of the Continuous_Control_1.ipynb/Continuous_Control_20.ipynb notebook. 
 
-If you want to examine precalculated solutions, download the `results` and `checkpoints` folders including all their contents and use them instead of your own training results.
+If you want to examine precalculated solutions, download the `results` and `checkpoints` folders including all their contents and use that instead of your own training results.
 
 ### Important note for Linux users
 Due to what seems to be a bug in the Unity environment running on Linux machines, the notebook kernel has to be restarted between different trainings or different model assessments.
